@@ -3,5 +3,5 @@
 
 ## Contents 
 [*Lv 1*](https://github.com/seongahshin/Programmers-Algorithm/tree/main/Lv.%201)
-+ Lv 2
-+ Lv 3
+*Lv 2*
+*Lv 3*
